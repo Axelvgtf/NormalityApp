@@ -15,7 +15,7 @@ Simply upload your data (.csv file / text file), select separator, selselect the
 - A normal quantile-quantile plot (`qqnorm`) with a reference line (`qqline`)
 ```
 
-![](Shiny App Variable.png)
+![](https://github.com/Axelvgtf/NormalityApp/blob/main/Shiny%20App%20Variable.png)
 
 If you have a grouping variable, check the box and select the grouping variable, and the app will provide :
 
@@ -25,7 +25,7 @@ If you have a grouping variable, check the box and select the grouping variable,
 - A normal quantile-quantile plot (`qqnorm`) with a reference line (`qqline`) splitted by grouping variable in color-coded subset qqplot
 ```
 
-![](Shiny App Grouping Var.png)
+![](https://github.com/Axelvgtf/NormalityApp/blob/main/Shiny%20App%20Grouping%20Var.png)
 
 	  
 ## Notes 
