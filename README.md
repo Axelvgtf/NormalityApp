@@ -1,6 +1,7 @@
 # NormalityApp
 ##The easy way to check distribution and normality of your data
 
+You can use the application without R, here : https://axelvgtf.shinyapps.io/NormalityApp/
 
 ## Usage
 
