@@ -1,13 +1,12 @@
 # NormalityApp
 ##The easy way to check distribution and normality of your data
-	      
-![](https://github.com/Axelvgtf/NormalityApp/blob/main/Shiny%20App%20launch.png)
 
 
 ## Usage
 
 This Shiny app is designed to provide a quick view of distribution and normality of your data. Moreover, this Shiny app is very easy to use.
-![]
+![](https://github.com/Axelvgtf/NormalityApp/blob/main/Shiny%20App%20launch.png)
+
 Simply upload your data (.csv file / text file), select separator, selselect the variable you wish to test, and the app will provide:
 ```
 - The p-value of the Shaprio-Wilk test
