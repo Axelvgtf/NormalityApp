@@ -1,6 +1,8 @@
 # NormalityApp
 ##The easy way to check distribution and normality of your data
 	      
+![](Shiny App launch.png)
+
 
 ## Usage
 
@@ -13,6 +15,8 @@ Simply upload your data (.csv file / text file), select separator, selselect the
 - A normal quantile-quantile plot (`qqnorm`) with a reference line (`qqline`)
 ```
 
+![](Shiny App Variable.png)
+
 If you have a grouping variable, check the box and select the grouping variable, and the app will provide :
 
 ```
@@ -21,7 +25,7 @@ If you have a grouping variable, check the box and select the grouping variable,
 - A normal quantile-quantile plot (`qqnorm`) with a reference line (`qqline`) splitted by grouping variable in color-coded subset qqplot
 ```
 
-
+![](Shiny App Grouping Var.png)
 
 	  
 ## Notes 
