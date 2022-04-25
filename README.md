@@ -1,7 +1,7 @@
 # NormalityApp
 ##The easy way to check distribution and normality of your data
 	      
-![](NormalityApp/Shiny App launch.png)
+![](https://github.com/Axelvgtf/NormalityApp/blob/main/Shiny%20App%20launch.png)
 
 
 ## Usage
