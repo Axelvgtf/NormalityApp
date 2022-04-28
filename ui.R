@@ -1,5 +1,6 @@
 #Author : NIERDING Axel - Date 20/04/2022
 #NormalityApp - The easy way to check Distribution and Normality of your Data
+#Special thanks to stackoverflow forum and ScottStetkiewicz for help on many issues
 
 #Update 26/04/22 -> add another tab, change the theme of the app, add interactives plots
 
