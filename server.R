@@ -1,5 +1,6 @@
 #Author : NIERDING Axel - Date 20/04/2022
 #NormalityApp - The easy way to check Distribution and Normality of your Data
+#Special thanks to stackoverflow forum and ScottStetkiewicz for help on many issues
 
 #Update 26/04/22 -> add another tab, change the theme of the app, add interactives plots
 
@@ -9,7 +10,7 @@
 library(shiny)#launch Shiny package to launch the app
 library(shinythemes)#launch shinythèmes package to input a new theme color in the app
 library(tidyverse)#launch tidyverse package for organize your data and have a "pack" of good packages  
-library(plotly)
+library(plotly)#laun plotly package for interactiv graphics 
 
 server <- function(input, output, session) {# function to caracterize input and output parameters /  session is an environment that can be used to access information and functionality relating to curent session
     
