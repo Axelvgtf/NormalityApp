@@ -19,7 +19,7 @@ server <- function(input, output, session) {# function to caracterize input and 
         read.csv(inFile$datapath, header=input$header, sep=input$sep, quote=input$quote)# Only csv because this is the most common file extension in the world
     })#put some arguments on your csv 
     
-    observe({#Automatically re-execute function if you have novel parameters
+    observe({#Automatically re-execute function if you have news parameters
         updateSelectizeInput(#Update the change of variable
             session,#In your current session
             "Variable",#Name of input element of variable
